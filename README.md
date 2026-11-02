@@ -81,6 +81,16 @@ Architecture Diagram
 
 ![AWS Architecture](./architecture.png)
 
+LinkedIn Project Showcase
+
+I shared this project and my learning experience on LinkedIn.
+
+Read my LinkedIn Project Post:
+https://lnkd.in/p/du3eF2GF
+
+Connect with me on LinkedIn:
+https://www.linkedin.com/in/umar-farooq-433510410
+
 Author
 
 Umar Farooq
