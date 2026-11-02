@@ -73,7 +73,15 @@ The VPC, networking, EC2, ALB, Target Group, and Auto Scaling infrastructure wer
 
 Custom domain and HTTPS configuration using Route 53 and ACM were not completed because a domain name was unavailable.
 
- Author
+Project Screenshots
+
+All AWS implementation screenshots are available in the [screenshots](./screenshots/) folder.
+
+Architecture Diagram
+
+![AWS Architecture](./architecture.png)
+
+Author
 
 Umar Farooq
 
